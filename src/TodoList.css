@@ -1,0 +1,101 @@
+.todoListMain {
+  color: rgba(155, 6, 13, 0.74);
+  justify-content: center;
+}
+.todoListMain .header input {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid rgb(253, 250, 250);
+  width: 350px;
+  background-color: rgb(253, 250, 250);
+  border-radius: 5px;
+}
+.btnadd {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: #cc5a25;
+  color: #fff;
+  border: 2px solid #cc5a25;
+  border-radius: 5px;
+}
+.btnadd:hover {
+  background-color: #3fa04f;
+  border: 2px solid #3fa04f;
+  cursor: pointer;
+}
+.btnclear{
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: #e75e54;
+  color: #fff;
+  border: 2px solid #e75e54;
+  border-radius: 5px;
+}
+.btnclear:hover {
+  background-color: #c00505;
+  border: 2px solid #c00505;
+  cursor: pointer;
+}
+.todoListMain .theList li {
+  color: rgb(58, 58, 58);
+  background-color: rgb(241, 222, 219);
+  padding: 12px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+.todoListMain .theList li:hover {
+  background-color: rgb(228, 204, 208);
+}
+.inside {
+  display: flex;
+  flex-direction: row;
+}
+.inside-1 {
+  flex-grow: 1;
+}
+.btnremove {
+  padding: 3px;
+  font-size: 16px;
+  margin: 5px;
+  background-color: #44829e;
+  color: #fff;
+  border: 2px solid #44829e;
+  border-radius: 5px;
+}
+.btnremove:hover {
+  background-color: #c00505;
+  border: 2px solid #c00505;
+  cursor: pointer;
+}
+.btnsave {
+  padding: 3px;
+  font-size: 16px;
+  margin: 5px;
+  background-color: #44829e;
+  color: #fff;
+  border: 2px solid #44829e;
+  border-radius: 5px;
+}
+.btnsave:hover {
+  background-color: #3fa04f;
+  border: 2px solid #3fa04f;
+  cursor: pointer;
+}
+.btnedit {
+  padding: 3px;
+  font-size: 16px;
+  margin: 5px;
+  background-color: #44829e;
+  color: #fff;
+  border: 2px solid #44829e;
+  border-radius: 5px;
+}
+.btnedit:hover {
+  background-color: #55543a;
+  border: 2px solid #55543a;
+  cursor: pointer;
+}
