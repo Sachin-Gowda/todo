@@ -1,0 +1,47 @@
+[33mcommit 240532dddca3b6a60de7be3501b9ed4be19023e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: sachin <sachin.gowda@softsuave.com>
+Date:   Thu Dec 31 20:36:56 2020 +0530
+
+    To-do list
+
+[33mcommit f326f17fd6d206b7b29e9317b41fcd5b5508bc1b[m
+Author: sachin <sachin.gowda@softsuave.com>
+Date:   Thu Dec 31 20:30:05 2020 +0530
+
+    Source files for To-do list
+
+[33mcommit 204c8f67e4d88c65ae415e3ecb5b3a6f263d5405[m
+Author: sachin <sachin.gowda@softsuave.com>
+Date:   Thu Dec 31 20:25:43 2020 +0530
+
+    To make the index page for To-do items
+
+[33mcommit 316795729e22579fcf5da567d06a33173d242d60[m
+Author: sachin <sachin.gowda@softsuave.com>
+Date:   Thu Dec 31 20:24:59 2020 +0530
+
+    To use as a back-ground image
+
+[33mcommit 835f6de317221c1da0a5f33dcf877a0e1a4b4f88[m
+Author: sachin <sachin.gowda@softsuave.com>
+Date:   Thu Dec 31 20:24:18 2020 +0530
+
+    To make container for displaying To-do items
+
+[33mcommit ed52194b506bea4e7543f5de15a5db68b773881d[m
+Author: sachin <sachin.gowda@softsuave.com>
+Date:   Thu Dec 31 20:23:32 2020 +0530
+
+    To display the To-do items
+
+[33mcommit 8bbd877862753d04cb362053865b2f56ef7e396c[m
+Author: sachin <sachin.gowda@softsuave.com>
+Date:   Thu Dec 31 20:20:24 2020 +0530
+
+    commit index html file
+
+[33mcommit c681d1df2494dd09e4949c82b430f93b022be888[m
+Author: udhaya <udhayakumar@softsuave.com>
+Date:   Thu Dec 24 17:54:06 2020 +0530
+
+    Initialize project using Create React App
