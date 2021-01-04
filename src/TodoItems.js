@@ -30,7 +30,7 @@ class TodoItems extends Component
       <div>
         <li className="inside">
           <div className="inside-1">
-            {item.text},{item.key}
+            {item.text}
           </div>
           <div>
             <button onClick={() => this.edit(item.text, item.key)} className="btnedit">Edit</button>
